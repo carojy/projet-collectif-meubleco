@@ -1,8 +1,9 @@
  // Importe le composant Product depuis le fichier Product.js
 
-import Product from "../components/Product";
+import Product from "./Product";
 import { useState, useEffect } from "react";
-import One from "../components/One";
+import One from "./One";
+
 
 //recuperation de l'API de Symfony
 const Fetch = () => {
