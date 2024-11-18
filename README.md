@@ -6,3 +6,5 @@ Projet de groupe effectué sur 7 jours en équipe de 6 personnes :
 ***==> Passation et inversement des équipes le 4ème jour***
 
 Plateforme de vente de meubles de seconde main. 
+
+test
