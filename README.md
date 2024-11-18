@@ -16,3 +16,5 @@ V2 :
 - pages catégories : affichage de 4 ards par lignes + option de tri
 - gestion de l'authentification
 - création BO
+
+test lala
